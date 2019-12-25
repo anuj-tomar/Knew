@@ -1,0 +1,27 @@
+
+.home{
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    height: 100vh;
+    font-size: 3rem;
+    .bgImage{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: -1;
+        opacity: 0.8;
+    }
+}
+.home2{
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    height: 100vh;
+    font-size: 3rem;
+}
